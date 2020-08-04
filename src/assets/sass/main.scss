@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+$green: #009000;
+$light: #fafafa;
+
+$body-background-color: $green;
+$text: $light;
+
+$body-min-width: 320px;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+@import "node_modules/bulma/bulma.sass";

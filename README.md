@@ -1,4 +1,5 @@
 # card-counter
+PWA For Count Cards
 
 ## Project setup
 ```
@@ -20,5 +21,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+[MIT license](https://opensource.org/licenses/MIT).
