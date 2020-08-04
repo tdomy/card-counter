@@ -1,4 +1,7 @@
 module.exports = {
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/card-counter/'
+    : '/',
   pwa: {
     themeColor: '#009000',
     msTileColor: '#000000',
