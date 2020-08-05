@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/card-counter/css/app.39cdaca4.css"
   },
   {
-    "revision": "66b615b59ca5e6303acbaa51c7b78ea2",
+    "revision": "e840bf01f223eadb57e7c23bd99f196f",
     "url": "/card-counter/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/card-counter/js/chunk-vendors.a986cfee.js"
   },
   {
-    "revision": "532f3abd9371dbf9db94b169f3a043fa",
+    "revision": "85f04bb216b7e8c840473e1ff8904c71",
     "url": "/card-counter/manifest.json"
   },
   {

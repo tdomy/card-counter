@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/card-counter/precache-manifest.ade44a18d68680740b9bada7eb1193fd.js"
+  "/card-counter/precache-manifest.d5356af083cc3ef8beeace4cd5b352ca.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "card-counter"});
